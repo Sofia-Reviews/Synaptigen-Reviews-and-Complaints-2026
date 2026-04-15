@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sofia-reviews.github.io/Synaptigen-Reviews-and-Complaints-2026/sitemap.xml
